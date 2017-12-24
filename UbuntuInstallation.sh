@@ -10,6 +10,11 @@ sudo dpkg -i google-chrome*.deb
 # Install gnome-tweak tool (change font size)
 sudo apt-get install gnome-tweak-tool
 
+# Font size is better of changed by changing the scaling, so that most of the applications
+# like Chrome will be affected.
+# In ubuntu Unity, this can be done using Unity Tweek Tool: Fonts -> Appearance -> Text scaling factor
+# I chose 1.4 on the current laptop.
+
 # Install dconf tools to customize keyboard shortcuts(such as navigating to a certain workspace)
 sudo apt-get install dconf-editor
 
