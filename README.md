@@ -1,2 +1,2 @@
 # MyDevSetup
-How I set up my development tolls
+How I set up my development tools
