@@ -36,7 +36,9 @@ sudo apt-get install terminator
 
 # Manually adjust brightness
 
-# Manually install sogou pinyin inpute method
+# Manually install Chinese inpute method, using Fcitx instead of IBus.
+# https://read.stefanangrick.net/set-up-fcitx-for-chinese-and-japanese-language-input-on-ubuntu-trusty-14-04
+# Currently using Sun Pinyin.
 
 # Manually download and install sublime text 3, choose color scheme as "slush & puppies"
 
