@@ -5,18 +5,18 @@ Use official source to download and install. Make sure it is up-to-date. The fol
 
 ## Basic user settings
 In Preferences -> Settings
-```
+```json
 {
-	"color_scheme": "Packages/Color Scheme - Default/Slush & Poppies.tmTheme",
-	"highlight_modified_tabs": true,
-	"ignored_packages":
-	[
+  "color_scheme": "Packages/Color Scheme - Default/Slush & Poppies.tmTheme",
+  "highlight_modified_tabs": true,
+  "ignored_packages":
+  [
     "0_package_control_loader",
-		"Vintage"
-	],
-	"translate_tabs_to_spaces": true,
-	"word_wrap": false,
-	"wrap_width": 80
+    "Vintage"
+  ],
+  "translate_tabs_to_spaces": true,
+  "word_wrap": false,
+  "wrap_width": 80
 }
 ```
 Make sure "Package Control" is not in "ignored_packages"!
