@@ -64,3 +64,11 @@ sudo apt-get install cmake
 # For some reasons it doens't work with Chinese conversion support. Only zim_support.
 # Download Dictionaries: Merriam-Webster's Collegiate 11, Oxford Advanced Learners Dictionary 8th, American Heritage English-Chinese Dictionary
 # May need to install kingsoft-phonetic-unicode.ttf 
+ 
+# Install Maven
+sudo apt-get install maven
+
+# Install Intellij
+# Download and extract from the official website
+# https://www.jetbrains.com/help/idea/install-and-set-up-intellij-idea.html
+# A shortcut will be created during first launch
