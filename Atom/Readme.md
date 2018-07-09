@@ -17,7 +17,7 @@ Download the binary file from [official site](https://atom.io/) and install it.
       }
     }
   ```
-      Then the background color will change to yellow for the syntax themes selected in Settings.
+  Then the background color will change to yellow for the syntax themes selected in Settings.
 
 
 ## Markdown configuration
