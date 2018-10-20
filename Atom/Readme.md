@@ -6,7 +6,7 @@ Download the binary file from [official site](https://atom.io/) and install it.
 
 ## Basic configuration
 1. Use *One Light* as UI theme.
-2. Right now Atom doesn't support using multiple syntax themes. The workaround is to install package multi-theme-applicator. Currently I use *minimal-syntax* theme for markdown, and *atom-slush-poppies-theme* for others. Note that newly installed theme will not be visible to multi-theme-applicator until the window is restarted. I apply them to the "file type" level, which only affects files in the current window.
+2. Right now Atom doesn't support using multiple syntax themes. The workaround is to install package [multi-theme-applicator](https://atom.io/packages/multi-theme-applicator). Currently I use *minimal-syntax* theme for markdown, and *atom-slush-poppies-theme* for others. Note that newly installed theme will not be visible to multi-theme-applicator until the window is restarted. I apply them to the "file type" level, which only affects files in the current window. The panel is activiated with shift-ctrl-v (windows/linux) or shift-cmd-v (mac).
 3. In Settings -> Editor, set *Preferred Line Length* to 100 and check *Soft wrap at preferred line length*.
 4. By default many syntax themes do not provide visible text selection color. This has to be set up by the user. Go to Menu Edit -> Stylesheet, where we can override anything defined in the syntax themes, and add or insert the following content:
     ```less
