@@ -32,7 +32,6 @@ This is useful when editing certain files within a package.
 * Make sure single_command setting is false, otherwise some commands won't be displayed.
 * To edit, choose the package name: `ctrl + shift + p -> PackageResourceViewer: Edit Package Resource -> package_name -> file_name`. Hit save can take effect.
 
-
 ## Markdown setup
 * Install MarkdownEditing plugin. It provides some basic markdown color themes and markdown related editing features.
   + https://github.com/SublimeText-Markdown/MarkdownEditing
