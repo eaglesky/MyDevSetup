@@ -1,5 +1,8 @@
 # Visual Studio Code Setup
 
+## General
+1. Change file explorer indent. Setting -> "tree.indent". 30 seems to be good.
+
 ## Markdown
 
 1. Install [Github preview
