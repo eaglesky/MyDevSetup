@@ -33,3 +33,9 @@
 1. Create a global launch configuration for JS debugger
    ([instructions](https://github.com/gajus/eslint-plugin-jsdoc)). Use the
    default out-of-the-box nodejs debugger.
+
+## Angular
+1. Install [Angular Language
+   Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template).
+   Should work immediately after installation. Features include autocomplete in
+   html file for the component variables.
