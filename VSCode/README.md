@@ -2,6 +2,7 @@
 
 ## General
 1. Change file explorer indent. Setting -> "tree.indent". 30 seems to be good.
+2. Set "Word Wrap" setting as wordWrapColumn and limit as 100. By default VSCode only does soft wrap. To achieve hard wrap, install [Rewrap extension](https://github.com/stkb/Rewrap) .
 
 ## Markdown
 
