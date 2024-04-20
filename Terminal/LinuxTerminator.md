@@ -7,7 +7,7 @@
 `Preferences -> Profiles -> Colors`, choose Built-in themes "Black on white".
 
 ## Font size
-System scale doesn't affect the font size of this application. So need to choose an appropriate size in `Preferences -> Profiles -> General`
+System scale does affect the font size of this application if "Use system fixed width font" is checked in `Preferences -> Profiles -> General`.
 
 ## Shorten the command line prompt
 https://askubuntu.com/questions/145618/how-can-i-shorten-my-command-line-bash-prompt  
