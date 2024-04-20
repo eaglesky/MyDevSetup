@@ -8,7 +8,7 @@ wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 sudo dpkg -i google-chrome*.deb
 
 # Install gnome-tweak tool (change font size)
-sudo apt-get install gnome-tweak-tool
+sudo apt-get install gnome-tweaks
 
 # Font size is better of changed by changing the scaling, so that most of the applications
 # like Chrome will be affected.
@@ -31,7 +31,7 @@ sudo apt-get install vim
 sudo update-alternatives --set editor /usr/bin/vim.basic
 # Manually configure vim
 
-# Install terminator
+# Install terminator, and configure according to the instructions under Terminal/
 sudo apt-get install terminator
 
 # Manually adjust brightness
